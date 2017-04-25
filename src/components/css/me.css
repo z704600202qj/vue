@@ -1,0 +1,10 @@
+.me_head{height: 2rem;width: 100%;background: #36B371}
+.me_photo{width: 1.5rem;height:1.5rem;display: block;background: salmon;;margin-top: 0.3rem;margin-left: 0.5rem;border-radius: 50%;float: left}
+.me_head p{display: inline-block;margin-top: 0.8rem;margin-left: 0.5rem;font-size: 0.5rem;color: #fff}
+.me_tap{width: 100%;background: red}
+.mint-tab-item:first-child{background: #268D57}
+.mint-tab-item:nth-child(2){background: #2DA666}
+.mint-tab-item a{color: #fff!important;}
+.me_tab{width: 100%;display: block;height: 100%}
+.mint-cell{min-height: 0.8rem!important;}
+.mint-cell span{font-size: 0.2rem}

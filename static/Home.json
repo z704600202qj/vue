@@ -1,0 +1,53 @@
+{
+  "logo":"./static/img/1.png",
+  "bannerImg":[
+    {"img":"./static/img/20170221180926_2278.jpg"},
+    {"img":"./static/img/20170224210637_8154.jpg"},
+    {"img":"./static/img/20170316194636_9209.jpg"},
+    {"img":"./static/img/20170320103232_5880.png"}
+  ],
+  "menuList":[
+    [
+      {"img":"./static/img/5.png"},
+      {"tit":"引流送积分"}
+    ],
+    [
+      {"img":"./static/img/7.png"},
+      {"tit":"店铺申请"}
+    ],
+    [
+      {"img":"./static/img/8.png"},
+      {"tit":"店铺申请"}
+    ],
+    [
+      {"img":"./static/img/9.png"},
+      {"tit":"店铺申请"}
+    ],
+    [
+      {"img":"./static/img/10.png"},
+      {"tit":"店铺申请"}
+    ],
+    [
+      {"img":"./static/img/12.png"},
+      {"tit":"店铺申请"}
+    ],
+    [
+      {"img":"./static/img/13.png"},
+      {"tit":"店铺申请"}
+    ],
+    [
+      {"img":"./static/img/14.png"},
+      {"tit":"店铺申请"}
+    ],
+    [
+      {"img":"./static/img/a.png"},
+      {"tit":"店铺申请"}
+    ],
+    [
+      {"img":"./static/img/6.png"},
+      {"tit":"店铺申请"}
+    ]
+
+  ],
+  "me_tab":[{"tit":"消费"}, {"gg_value":"3"}]
+}

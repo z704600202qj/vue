@@ -1,0 +1,6 @@
+.bottom_warp{position: fixed;bottom: 0px;left: 0px;width: 100%}
+/*.tab-item{display: flex;height: 40px;line-height: 40px;;background: darkred ;width: 30%;float: left}*/
+.tab-item{ height: 0.8rem;  line-height: 0.8rem;  display: flex;  text-align: center;;border-top: 1px solid #ccc}
+.item{ flex: 1; text-decoration: none;background: #ffffff;font-size: 0.3rem;border-left: 1px solid #ccc}
+.item:first-child{border-left: none;}
+.router-link-active{color: #2DA666}

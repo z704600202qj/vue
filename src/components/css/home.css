@@ -1,0 +1,20 @@
+.head{height: 0.8rem;width: 100%;background: #36B371;position: relative}
+.logo{margin: 0 0.3rem;width: 2rem;height: 100%;background-repeat:no-repeat ;background-position: center;background-size: 100%;float: left}
+.search{float: left;width: 3.5rem;height: 0.5rem;margin-top: 0.15rem;border: none;;margin-left: 0.25rem;line-height: 0.5rem}
+.searchq{font-size: 0.5rem;position: absolute;left: 5.8rem;top:0.15rem;font-weight: 400 }
+.user{font-size: 0.5rem;position: absolute;right: 0.4rem;top: 0.15rem}
+.mint-searchbar{height:100%;width:100%}
+.mint-search{height: 100%!important;width:100%}
+.mint-searchbar-core{width:100%}
+.mint-searchbar-cancel{font-size: 0.3rem}
+.mint-searchbar{background: #36B371}
+.mint-searchbar{padding: 0!important;}
+.mint-searchbar-cancel{margin: 0 6px;color: #2DA666!important;}
+
+
+.banner{width: 100%;height:3.5rem;background: #b31f3a  }
+.list{overflow: hidden}
+.list li{width: 1.5rem;height: 1.5rem;;float: left;overflow: hidden;position: relative;margin: 0.1rem 0}
+.list img{width: 70%;height:70%;;margin: 0 0.2rem}
+.list li p{position: absolute;bottom: 0;font-size: 0.2rem;text-align: center;width: 100%}
+.sub_banner{width: 100%;height: 3rem;background: url("../../sourse/15.png")no-repeat center;background-size: 100%}
